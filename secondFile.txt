@@ -4,6 +4,8 @@ line 03
 line 04
 line 05 change from git_1
 line 06 change from git_1
+line 05 change from git_2
+line 06 change from git_2
 line 07
 line 08
 line 09
